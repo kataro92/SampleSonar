@@ -1,0 +1,12 @@
+{
+  "ServerUri": "http://localhost:9000/",
+  "Organization": null,
+  "ProjectKey": "SampleSonar",
+  "ProjectName": "SampleSonar",
+  "Profiles": {
+    "CSharp": {
+      "ProfileKey": "AXuGbjl_0-hlTUv-pNRt",
+      "ProfileTimestamp": "2021-08-27T07:06:15Z"
+    }
+  }
+}
